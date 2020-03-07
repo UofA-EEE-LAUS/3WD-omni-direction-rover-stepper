@@ -10,4 +10,4 @@ The transmissing data is a String type data using "," to figure out each data pa
 * If your're not familiar with MATLAB UDP interface, you can check this [Page](https://www.mathworks.com/help/instrument/udp.html)
 
 ## GUI
-We also developed a MATLAB GUI for the purpose of easilt testing commands. You can find it under this [Folder](https://github.com/UofA-EEE-LAUS/3WD-omni-direction-rover-stepper/tree/master/Physical%20Platform/Rover_GUI)
+We also developed a MATLAB GUI for the purpose of easy command testing. You can find it under this [Folder](https://github.com/UofA-EEE-LAUS/3WD-omni-direction-rover-stepper/tree/master/Physical%20Platform/Rover_GUI)
